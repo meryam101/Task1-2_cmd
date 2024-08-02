@@ -8,7 +8,7 @@ if len(sys.argv) > 1 and sys.argv[1].isdigit():
 if len(sys.argv) > 1 and sys.argv[2].isdigit():
     second_arg = int(sys.argv[2])
 
-
+#  script that returns the higher of 2 numbers
 
 output = 0
 if first_arg < second_arg:
